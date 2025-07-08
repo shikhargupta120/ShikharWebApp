@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/d582f901-e0f4-4696-b464-a34cd26539cb/resourceGroups/shikharresourcegroup/providers/Microsoft.Web/sites/ShikharWebApp"
+}

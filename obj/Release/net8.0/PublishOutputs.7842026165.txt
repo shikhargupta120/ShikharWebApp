@@ -1,0 +1,7 @@
+C:\Users\hp\ShikharWebApp\bin\Release\net8.0\publish\ShikharWebApp.exe
+C:\Users\hp\ShikharWebApp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\hp\ShikharWebApp\bin\Release\net8.0\publish\appsettings.json
+C:\Users\hp\ShikharWebApp\bin\Release\net8.0\publish\ShikharWebApp.dll
+C:\Users\hp\ShikharWebApp\bin\Release\net8.0\publish\ShikharWebApp.deps.json
+C:\Users\hp\ShikharWebApp\bin\Release\net8.0\publish\ShikharWebApp.runtimeconfig.json
+C:\Users\hp\ShikharWebApp\bin\Release\net8.0\publish\ShikharWebApp.pdb
